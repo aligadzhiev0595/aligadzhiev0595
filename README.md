@@ -1,4 +1,4 @@
-[![Header](https://github.com/aligadzhiev0595/aligadzhiev0595/blob/main/assets/reactready.jpeg)]()
+<!-- [![Header](https://github.com/aligadzhiev0595/aligadzhiev0595/blob/main/assets/reactready.jpeg)]() -->
 
 
 ## I'm a beginner Frontend Web Developer
