@@ -3,10 +3,11 @@
 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 👨‍💻 I’m web developer & student of School21 (Sber)
-- 🌱 I’m currently learning **`C` / `C++`**
-- 🤝 I'm open for the internship/job opportunities as a frontend developer
+- 👨‍💻 I'm Software Engineer at SberTech
 - 💬 Languages: English (elementary), Russian (native)
+<!-- - 👨‍💻 I’m web developer & student of School21 (Sber) 
+<!-- - 🌱 I’m currently learning **`C` / `C++`**
+<!-- - 🤝 I'm open for the internship/job opportunities as a frontend developer -->
 
 <!-- <h3 align="left">Connect with me</h3>
 <p align="left">
