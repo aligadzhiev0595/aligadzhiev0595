@@ -64,6 +64,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>&nbsp
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 </p>
-<hr/>
 -->
+<hr/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aligadzhiev0595&label=Profile%20views&color=0e75b6&style=flat" alt="aligadzhiev0595" /> </p>
