@@ -3,7 +3,7 @@
 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 👨‍💻 I'm Software Engineer at SberTech
+- 👨‍💻 I'm Software Engineer at SberTech & Student of 42.fr
 - 💬 Languages: English (elementary), Russian (native)
 <!-- - 👨‍💻 I’m web developer & student of School21 (Sber) 
 <!-- - 🌱 I’m currently learning **`C` / `C++`**
