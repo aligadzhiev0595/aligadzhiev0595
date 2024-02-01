@@ -1,7 +1,9 @@
 <h2> Hi there
+ <!--
 <img width="24" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> 
 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+-->
 
 - 👨‍💻 I'm Software Engineer at SberTech & Student of 42.fr
 - 💬 Languages: English (elementary), Russian (native)
@@ -14,6 +16,8 @@
 <a href="https://linkedin.com/in/aligadzhiev0595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligadzhiev0595" height="30" width="50" /></a>
 <a href="https://www.leetcode.com/aligadzhiev0595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aligadzhiev0595" height="30" width="50" /></a>
 </p> -->
+
+<!--
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -21,6 +25,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 </p>
+-->
 
 <!--
 <hr/>
