@@ -10,14 +10,15 @@
 <!-- - 👨‍💻 I’m web developer & student of School21 (Sber) 
 <!-- - 🌱 I’m currently learning **`C` / `C++`**
 <!-- - 🤝 I'm open for the internship/job opportunities as a frontend developer -->
-
+<!--
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aligadzhiev0595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligadzhiev0595" height="30" width="50" /></a>
 <a href="https://www.leetcode.com/aligadzhiev0595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aligadzhiev0595" height="30" width="50" /></a>
 </p>
+-->
 
-<!--
+
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -25,7 +26,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 </p>
--->
 
 <!--
 <hr/>
